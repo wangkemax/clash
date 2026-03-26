@@ -1,14 +1,22 @@
-# ==============================
-# AI 平台
-# ==============================
-
-DOMAIN-SUFFIX,openrouter.ai
-DOMAIN-SUFFIX,replicate.com
-DOMAIN-SUFFIX,together.ai
-DOMAIN-SUFFIX,groq.com
-
-# ==============================
-# Private Tracker
-# ==============================
-
-DOMAIN-SUFFIX,iptorrents.com
+DOMAIN-SUFFIX, chatgpt.com
+DOMAIN-KEYWORD, openai
+DOMAIN-KEYWORD, sora
+DOMAIN-KEYWORD, copilot
+DOMAIN-SUFFIX, segment.io
+DOMAIN-KEYWORD, paypal
+DOMAIN-SUFFIX, tiktok
+DOMAIN-SUFFIX, tktn.be
+DOMAIN-SUFFIX, inmobi.com
+DOMAIN-SUFFIX, paypal.com
+DOMAIN-SUFFIX, google.com
+DOMAIN-SUFFIX, wikipedia.org
+DOMAIN-SUFFIX, reddit.com
+DOMAIN-SUFFIX, redd.it
+DOMAIN-SUFFIX, interactivebrokers.com.hk
+DOMAIN-SUFFIX, docker.io
+DOMAIN-SUFFIX, docker.com
+DOMAIN-SUFFIX, wireguard.com
+DOMAIN-SUFFIX, 91porn.com
+DOMAIN-SUFFIX, t66y.com
+DOMAIN-SUFFIX, tencent-cloud.net
+DOMAIN-SUFFIX, lebo.cn
